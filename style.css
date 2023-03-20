@@ -1,0 +1,22 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+    box-shadow: 5px 5px 15px 0px cornflowerblue;
+    white-space:normal;
+}
+.nota{
+    color: black;
+    font-size: 15px;
+}
+.copy_right_footer{
+    width: 100%;
+    position: fixed;
+    text-align: center;
+    bottom: 0;
+}
+canvas{
+    border: 5px dashed blue;
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px 0px cornflowerblue;
+}
